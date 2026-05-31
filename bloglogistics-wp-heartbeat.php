@@ -3,7 +3,7 @@
  * Plugin Name:       BlogLogistics WP Heartbeat
  * Plugin URI:        https://github.com/bloglogisticsdev/bloglogistics-wp-heartbeat
  * Description:       Adjusts or disables the WordPress Heartbeat API in the dashboard, post editor, and frontend.
- * Version:           2.0.0
+ * Version:           2.0.1
  * Requires at least: 7.0
  * Requires PHP:      8.3
  * Author:            BlogLogistics
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'BLOGLOGISTICS_WPH_VERSION', '2.0.0' );
+define( 'BLOGLOGISTICS_WPH_VERSION', '2.0.1' );
 define( 'BLOGLOGISTICS_WPH_SLUG', 'bloglogistics-wp-heartbeat' );
 define( 'BLOGLOGISTICS_WPH_FILE', __FILE__ );
 define( 'BLOGLOGISTICS_WPH_DIR', plugin_dir_path( __FILE__ ) );
@@ -233,7 +233,7 @@ if ( ! class_exists( 'BlogLogistics_WP_Heartbeat', false ) ) {
 											step="1"
 											data-original-value="<?php echo esc_attr( (string) $display_value ); ?>"
 											style="width: 100px;"
-											<?php readonly( $is_disabled ); ?>
+											<?php echo $is_disabled ? 'readonly="readonly"' : ''; ?>
 										/>
 										<label for="<?php echo esc_attr( $disable_id ); ?>" style="margin-left: 12px;">
 											<input

@@ -4,7 +4,7 @@ Tags: heartbeat, performance, admin-ajax, autosave, editor
 Requires at least: 7.0
 Tested up to: 7.0
 Requires PHP: 8.3
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -71,6 +71,10 @@ Enabled intervals are enforced at a minimum of 15 seconds because WordPress igno
 The plugin removes its saved settings during uninstall.
 
 == Changelog ==
+
+= 2.0.1 =
+* Fix settings page fatal error caused by an invalid readonly helper call.
+* Make all Heartbeat controls render correctly.
 
 = 2.0.0 =
 * Rebuild as a standard BlogLogistics plugin repository.
