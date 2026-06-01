@@ -1,0 +1,83 @@
+msgid ""
+msgstr "Project-Id-Version: BlogLogistics WP Heartbeat 2.1.1\\nReport-Msgid-Bugs-To: https://www.bloglogistics.com\\nPOT-Creation-Date: 2026-06-01 00:00+0000\\nPO-Revision-Date: 2026-06-01 00:00+0000\\nLast-Translator: BlogLogistics <support@bloglogistics.com>\\nLanguage-Team: BlogLogistics\\nMIME-Version: 1.0\\nContent-Type: text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nX-Generator: BlogLogistics\\nX-Domain: bloglogistics-wp-heartbeat\\nLanguage: es_ES\\n"
+
+msgid "WP Heartbeat Settings"
+msgstr "Ajustes de WP Heartbeat"
+
+msgid "WP Heartbeat"
+msgstr "WP Heartbeat"
+
+msgid "BlogLogistics"
+msgstr "BlogLogistics"
+
+msgid "Use the submenu links to configure installed BlogLogistics plugins."
+msgstr "Usa los enlaces del submenú para configurar los plugins BlogLogistics instalados."
+
+msgid "This plugin controls the WordPress Heartbeat API in three common areas: the Dashboard, the post editor, and the frontend."
+msgstr "Este plugin controla la API Heartbeat de WordPress en tres áreas comunes: el escritorio, el editor de entradas y la parte pública del sitio."
+
+msgid "Disabling Heartbeat can reduce background admin-ajax.php requests, but it can also affect autosave, post locking, editor presence, and collaboration features. Keep the post editor enabled unless you have a clear reason to disable it."
+msgstr "Desactivar Heartbeat puede reducir las solicitudes admin-ajax.php en segundo plano, pero también puede afectar al guardado automático, al bloqueo de entradas, a la presencia en el editor y a las funciones de colaboración. Mantén Heartbeat activado en el editor salvo que tengas una razón clara para desactivarlo."
+
+msgid "Heartbeat controls"
+msgstr "Controles de Heartbeat"
+
+msgid "Set an interval in seconds, or set the value to 0 to disable Heartbeat for that area. WordPress ignores very low Heartbeat values, so enabled intervals are enforced at a minimum of 15 seconds."
+msgstr "Establece un intervalo en segundos, o usa 0 para desactivar Heartbeat en esa área. WordPress ignora valores muy bajos, por lo que los intervalos activos se aplican con un mínimo de 15 segundos."
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "Recommended default:"
+msgstr "Valor recomendado:"
+
+msgid "Dashboard: Disabled. Post editor: 60 seconds. Frontend: Disabled."
+msgstr "Escritorio: desactivado. Editor de entradas: 60 segundos. Parte pública: desactivado."
+
+msgid "Save Heartbeat Settings"
+msgstr "Guardar ajustes de Heartbeat"
+
+msgid "No changes to save."
+msgstr "No hay cambios para guardar."
+
+msgid "Restore recommended defaults"
+msgstr "Restaurar valores recomendados"
+
+msgid "This disables Heartbeat on the Dashboard and frontend, and keeps the post editor Heartbeat at 60 seconds."
+msgstr "Esto desactiva Heartbeat en el escritorio y la parte pública, y mantiene Heartbeat del editor de entradas en 60 segundos."
+
+msgid "Unsaved changes."
+msgstr "Cambios sin guardar."
+
+msgid "You do not have permission to manage these settings."
+msgstr "No tienes permiso para gestionar estos ajustes."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Dashboard Heartbeat"
+msgstr "Heartbeat del escritorio"
+
+msgid "Post Editor Heartbeat"
+msgstr "Heartbeat del editor de entradas"
+
+msgid "Frontend Heartbeat"
+msgstr "Heartbeat de la parte pública"
+
+msgid "Controls Heartbeat on the main WordPress Dashboard screen."
+msgstr "Controla Heartbeat en la pantalla principal del escritorio de WordPress."
+
+msgid "Controls Heartbeat in the post editor. Autosave and post locking rely on this, so 60 seconds is the recommended setting."
+msgstr "Controla Heartbeat en el editor de entradas. El guardado automático y el bloqueo de entradas dependen de esto, por lo que 60 segundos es el ajuste recomendado."
+
+msgid "Controls Heartbeat on public-facing pages when a theme or plugin enqueues it."
+msgstr "Controla Heartbeat en páginas públicas cuando un tema o plugin lo carga."
+
+msgid "Heartbeat settings saved."
+msgstr "Ajustes de Heartbeat guardados."
+
+msgid "Recommended defaults restored."
+msgstr "Valores recomendados restaurados."
+
+msgid "No changes were made."
+msgstr "No se realizaron cambios."

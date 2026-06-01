@@ -1,0 +1,83 @@
+msgid ""
+msgstr "Project-Id-Version: BlogLogistics WP Heartbeat 2.1.1\\nReport-Msgid-Bugs-To: https://www.bloglogistics.com\\nPOT-Creation-Date: 2026-06-01 00:00+0000\\nPO-Revision-Date: 2026-06-01 00:00+0000\\nLast-Translator: BlogLogistics <support@bloglogistics.com>\\nLanguage-Team: BlogLogistics\\nMIME-Version: 1.0\\nContent-Type: text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nX-Generator: BlogLogistics\\nX-Domain: bloglogistics-wp-heartbeat\\nLanguage: sv_SE\\n"
+
+msgid "WP Heartbeat Settings"
+msgstr "WP Heartbeat-inställningar"
+
+msgid "WP Heartbeat"
+msgstr "WP Heartbeat"
+
+msgid "BlogLogistics"
+msgstr "BlogLogistics"
+
+msgid "Use the submenu links to configure installed BlogLogistics plugins."
+msgstr "Använd undermenylänkarna för att konfigurera installerade BlogLogistics-tillägg."
+
+msgid "This plugin controls the WordPress Heartbeat API in three common areas: the Dashboard, the post editor, and the frontend."
+msgstr "Detta tillägg styr WordPress Heartbeat API i tre vanliga områden: adminpanelen, inläggsredigeraren och webbplatsens framsida."
+
+msgid "Disabling Heartbeat can reduce background admin-ajax.php requests, but it can also affect autosave, post locking, editor presence, and collaboration features. Keep the post editor enabled unless you have a clear reason to disable it."
+msgstr "Att inaktivera Heartbeat kan minska admin-ajax.php-anrop i bakgrunden, men det kan också påverka automatisk sparning, inläggslåsning, redigerarnärvaro och samarbetsfunktioner. Låt inläggsredigeraren vara aktiverad om du inte har en tydlig anledning att stänga av den."
+
+msgid "Heartbeat controls"
+msgstr "Heartbeat-kontroller"
+
+msgid "Set an interval in seconds, or set the value to 0 to disable Heartbeat for that area. WordPress ignores very low Heartbeat values, so enabled intervals are enforced at a minimum of 15 seconds."
+msgstr "Ange ett intervall i sekunder, eller sätt värdet till 0 för att inaktivera Heartbeat för området. WordPress ignorerar mycket låga Heartbeat-värden, så aktiverade intervall tillämpas med minst 15 sekunder."
+
+msgid "Disable"
+msgstr "Inaktivera"
+
+msgid "Recommended default:"
+msgstr "Rekommenderad standard:"
+
+msgid "Dashboard: Disabled. Post editor: 60 seconds. Frontend: Disabled."
+msgstr "Adminpanel: inaktiverad. Inläggsredigerare: 60 sekunder. Framsida: inaktiverad."
+
+msgid "Save Heartbeat Settings"
+msgstr "Spara Heartbeat-inställningar"
+
+msgid "No changes to save."
+msgstr "Inga ändringar att spara."
+
+msgid "Restore recommended defaults"
+msgstr "Återställ rekommenderade standardvärden"
+
+msgid "This disables Heartbeat on the Dashboard and frontend, and keeps the post editor Heartbeat at 60 seconds."
+msgstr "Detta inaktiverar Heartbeat i adminpanelen och på framsidan, och behåller Heartbeat i inläggsredigeraren på 60 sekunder."
+
+msgid "Unsaved changes."
+msgstr "Osparade ändringar."
+
+msgid "You do not have permission to manage these settings."
+msgstr "Du har inte behörighet att hantera dessa inställningar."
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Dashboard Heartbeat"
+msgstr "Adminpanelens Heartbeat"
+
+msgid "Post Editor Heartbeat"
+msgstr "Inläggsredigerarens Heartbeat"
+
+msgid "Frontend Heartbeat"
+msgstr "Framsidans Heartbeat"
+
+msgid "Controls Heartbeat on the main WordPress Dashboard screen."
+msgstr "Styr Heartbeat på huvudskärmen i WordPress-adminpanelen."
+
+msgid "Controls Heartbeat in the post editor. Autosave and post locking rely on this, so 60 seconds is the recommended setting."
+msgstr "Styr Heartbeat i inläggsredigeraren. Automatisk sparning och inläggslåsning är beroende av detta, så 60 sekunder är den rekommenderade inställningen."
+
+msgid "Controls Heartbeat on public-facing pages when a theme or plugin enqueues it."
+msgstr "Styr Heartbeat på publika sidor när ett tema eller tillägg lägger till det."
+
+msgid "Heartbeat settings saved."
+msgstr "Heartbeat-inställningar sparade."
+
+msgid "Recommended defaults restored."
+msgstr "Rekommenderade standardvärden återställda."
+
+msgid "No changes were made."
+msgstr "Inga ändringar gjordes."

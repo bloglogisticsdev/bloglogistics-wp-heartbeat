@@ -1,0 +1,83 @@
+msgid ""
+msgstr "Project-Id-Version: BlogLogistics WP Heartbeat 2.1.1\\nReport-Msgid-Bugs-To: https://www.bloglogistics.com\\nPOT-Creation-Date: 2026-06-01 00:00+0000\\nPO-Revision-Date: 2026-06-01 00:00+0000\\nLast-Translator: BlogLogistics <support@bloglogistics.com>\\nLanguage-Team: BlogLogistics\\nMIME-Version: 1.0\\nContent-Type: text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nX-Generator: BlogLogistics\\nX-Domain: bloglogistics-wp-heartbeat\\nLanguage: nb_NO\\n"
+
+msgid "WP Heartbeat Settings"
+msgstr "WP Heartbeat-innstillinger"
+
+msgid "WP Heartbeat"
+msgstr "WP Heartbeat"
+
+msgid "BlogLogistics"
+msgstr "BlogLogistics"
+
+msgid "Use the submenu links to configure installed BlogLogistics plugins."
+msgstr "Bruk undermenylenkene for å konfigurere installerte BlogLogistics-utvidelser."
+
+msgid "This plugin controls the WordPress Heartbeat API in three common areas: the Dashboard, the post editor, and the frontend."
+msgstr "Denne utvidelsen styrer WordPress Heartbeat API i tre vanlige områder: kontrollpanelet, innleggsredigereren og forsiden."
+
+msgid "Disabling Heartbeat can reduce background admin-ajax.php requests, but it can also affect autosave, post locking, editor presence, and collaboration features. Keep the post editor enabled unless you have a clear reason to disable it."
+msgstr "Deaktivering av Heartbeat kan redusere admin-ajax.php-forespørsler i bakgrunnen, men kan også påvirke automatisk lagring, innlegslåsing, redigerertilstedeværelse og samarbeidsfunksjoner. La innleggsredigereren være aktivert med mindre du har en klar grunn til å deaktivere den."
+
+msgid "Heartbeat controls"
+msgstr "Heartbeat-kontroller"
+
+msgid "Set an interval in seconds, or set the value to 0 to disable Heartbeat for that area. WordPress ignores very low Heartbeat values, so enabled intervals are enforced at a minimum of 15 seconds."
+msgstr "Angi et intervall i sekunder, eller sett verdien til 0 for å deaktivere Heartbeat for dette området. WordPress ignorerer svært lave Heartbeat-verdier, så aktive intervaller settes til minst 15 sekunder."
+
+msgid "Disable"
+msgstr "Deaktiver"
+
+msgid "Recommended default:"
+msgstr "Anbefalt standard:"
+
+msgid "Dashboard: Disabled. Post editor: 60 seconds. Frontend: Disabled."
+msgstr "Kontrollpanel: deaktivert. Innleggsredigerer: 60 sekunder. Forside: deaktivert."
+
+msgid "Save Heartbeat Settings"
+msgstr "Lagre Heartbeat-innstillinger"
+
+msgid "No changes to save."
+msgstr "Ingen endringer å lagre."
+
+msgid "Restore recommended defaults"
+msgstr "Gjenopprett anbefalte standarder"
+
+msgid "This disables Heartbeat on the Dashboard and frontend, and keeps the post editor Heartbeat at 60 seconds."
+msgstr "Dette deaktiverer Heartbeat på kontrollpanelet og forsiden, og beholder Heartbeat i innleggsredigereren på 60 sekunder."
+
+msgid "Unsaved changes."
+msgstr "Ulagrede endringer."
+
+msgid "You do not have permission to manage these settings."
+msgstr "Du har ikke tillatelse til å administrere disse innstillingene."
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Dashboard Heartbeat"
+msgstr "Kontrollpanel-Heartbeat"
+
+msgid "Post Editor Heartbeat"
+msgstr "Innleggsredigerer-Heartbeat"
+
+msgid "Frontend Heartbeat"
+msgstr "Forside-Heartbeat"
+
+msgid "Controls Heartbeat on the main WordPress Dashboard screen."
+msgstr "Styrer Heartbeat på hovedskjermen i WordPress-kontrollpanelet."
+
+msgid "Controls Heartbeat in the post editor. Autosave and post locking rely on this, so 60 seconds is the recommended setting."
+msgstr "Styrer Heartbeat i innleggsredigereren. Automatisk lagring og innlegslåsing avhenger av dette, så 60 sekunder er anbefalt."
+
+msgid "Controls Heartbeat on public-facing pages when a theme or plugin enqueues it."
+msgstr "Styrer Heartbeat på offentlige sider når et tema eller en utvidelse legger det til."
+
+msgid "Heartbeat settings saved."
+msgstr "Heartbeat-innstillinger lagret."
+
+msgid "Recommended defaults restored."
+msgstr "Anbefalte standarder gjenopprettet."
+
+msgid "No changes were made."
+msgstr "Ingen endringer ble gjort."

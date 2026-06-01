@@ -4,7 +4,7 @@ Tags: heartbeat, performance, admin-ajax, autosave, editor
 Requires at least: 7.0
 Tested up to: 7.0
 Requires PHP: 8.3
-Stable tag: 2.0.1
+Stable tag: 2.1.1
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -72,9 +72,15 @@ The plugin removes its saved settings during uninstall.
 
 == Changelog ==
 
-= 2.0.1 =
-* Fix settings page fatal error caused by an invalid readonly helper call.
-* Make all Heartbeat controls render correctly.
+= 2.1.1 =
+* Fix settings page fatal error caused by an invalid readonly helper call after the bootstrap refactor.
+* Make all Heartbeat controls render correctly on the settings page.
+
+= 2.1.0 =
+* Refactor the main plugin file into a bootstrap loader.
+* Move the main plugin class into the includes directory.
+* Add translation support and bundled language files.
+* Add Domain Path metadata for local translations.
 
 = 2.0.0 =
 * Rebuild as a standard BlogLogistics plugin repository.

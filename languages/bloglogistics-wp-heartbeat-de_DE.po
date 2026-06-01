@@ -1,0 +1,83 @@
+msgid ""
+msgstr "Project-Id-Version: BlogLogistics WP Heartbeat 2.1.1\\nReport-Msgid-Bugs-To: https://www.bloglogistics.com\\nPOT-Creation-Date: 2026-06-01 00:00+0000\\nPO-Revision-Date: 2026-06-01 00:00+0000\\nLast-Translator: BlogLogistics <support@bloglogistics.com>\\nLanguage-Team: BlogLogistics\\nMIME-Version: 1.0\\nContent-Type: text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nX-Generator: BlogLogistics\\nX-Domain: bloglogistics-wp-heartbeat\\nLanguage: de_DE\\n"
+
+msgid "WP Heartbeat Settings"
+msgstr "WP-Heartbeat-Einstellungen"
+
+msgid "WP Heartbeat"
+msgstr "WP Heartbeat"
+
+msgid "BlogLogistics"
+msgstr "BlogLogistics"
+
+msgid "Use the submenu links to configure installed BlogLogistics plugins."
+msgstr "Verwenden Sie die Untermenü-Links, um installierte BlogLogistics-Plugins zu konfigurieren."
+
+msgid "This plugin controls the WordPress Heartbeat API in three common areas: the Dashboard, the post editor, and the frontend."
+msgstr "Dieses Plugin steuert die WordPress Heartbeat API in drei häufigen Bereichen: Dashboard, Beitragseditor und Frontend."
+
+msgid "Disabling Heartbeat can reduce background admin-ajax.php requests, but it can also affect autosave, post locking, editor presence, and collaboration features. Keep the post editor enabled unless you have a clear reason to disable it."
+msgstr "Das Deaktivieren von Heartbeat kann admin-ajax.php-Anfragen im Hintergrund reduzieren, kann aber auch automatische Speicherung, Beitragssperren, Editor-Präsenz und Zusammenarbeitsfunktionen beeinflussen. Lassen Sie Heartbeat im Beitragseditor aktiviert, sofern Sie keinen klaren Grund zum Deaktivieren haben."
+
+msgid "Heartbeat controls"
+msgstr "Heartbeat-Steuerung"
+
+msgid "Set an interval in seconds, or set the value to 0 to disable Heartbeat for that area. WordPress ignores very low Heartbeat values, so enabled intervals are enforced at a minimum of 15 seconds."
+msgstr "Legen Sie ein Intervall in Sekunden fest oder verwenden Sie 0, um Heartbeat für diesen Bereich zu deaktivieren. WordPress ignoriert sehr niedrige Heartbeat-Werte, daher werden aktivierte Intervalle auf mindestens 15 Sekunden gesetzt."
+
+msgid "Disable"
+msgstr "Deaktivieren"
+
+msgid "Recommended default:"
+msgstr "Empfohlene Vorgabe:"
+
+msgid "Dashboard: Disabled. Post editor: 60 seconds. Frontend: Disabled."
+msgstr "Dashboard: Deaktiviert. Beitragseditor: 60 Sekunden. Frontend: Deaktiviert."
+
+msgid "Save Heartbeat Settings"
+msgstr "Heartbeat-Einstellungen speichern"
+
+msgid "No changes to save."
+msgstr "Keine Änderungen zum Speichern."
+
+msgid "Restore recommended defaults"
+msgstr "Empfohlene Vorgaben wiederherstellen"
+
+msgid "This disables Heartbeat on the Dashboard and frontend, and keeps the post editor Heartbeat at 60 seconds."
+msgstr "Dies deaktiviert Heartbeat im Dashboard und Frontend und belässt den Heartbeat im Beitragseditor bei 60 Sekunden."
+
+msgid "Unsaved changes."
+msgstr "Nicht gespeicherte Änderungen."
+
+msgid "You do not have permission to manage these settings."
+msgstr "Sie haben keine Berechtigung, diese Einstellungen zu verwalten."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Dashboard Heartbeat"
+msgstr "Dashboard-Heartbeat"
+
+msgid "Post Editor Heartbeat"
+msgstr "Beitragseditor-Heartbeat"
+
+msgid "Frontend Heartbeat"
+msgstr "Frontend-Heartbeat"
+
+msgid "Controls Heartbeat on the main WordPress Dashboard screen."
+msgstr "Steuert Heartbeat auf dem Hauptbildschirm des WordPress-Dashboards."
+
+msgid "Controls Heartbeat in the post editor. Autosave and post locking rely on this, so 60 seconds is the recommended setting."
+msgstr "Steuert Heartbeat im Beitragseditor. Automatische Speicherung und Beitragssperren hängen davon ab, daher sind 60 Sekunden empfohlen."
+
+msgid "Controls Heartbeat on public-facing pages when a theme or plugin enqueues it."
+msgstr "Steuert Heartbeat auf öffentlich sichtbaren Seiten, wenn ein Theme oder Plugin es einbindet."
+
+msgid "Heartbeat settings saved."
+msgstr "Heartbeat-Einstellungen gespeichert."
+
+msgid "Recommended defaults restored."
+msgstr "Empfohlene Vorgaben wiederhergestellt."
+
+msgid "No changes were made."
+msgstr "Es wurden keine Änderungen vorgenommen."

@@ -1,0 +1,83 @@
+msgid ""
+msgstr "Project-Id-Version: BlogLogistics WP Heartbeat 2.1.1\\nReport-Msgid-Bugs-To: https://www.bloglogistics.com\\nPOT-Creation-Date: 2026-06-01 00:00+0000\\nPO-Revision-Date: 2026-06-01 00:00+0000\\nLast-Translator: BlogLogistics <support@bloglogistics.com>\\nLanguage-Team: BlogLogistics\\nMIME-Version: 1.0\\nContent-Type: text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nX-Generator: BlogLogistics\\nX-Domain: bloglogistics-wp-heartbeat\\nLanguage: fr_FR\\n"
+
+msgid "WP Heartbeat Settings"
+msgstr "Réglages de WP Heartbeat"
+
+msgid "WP Heartbeat"
+msgstr "WP Heartbeat"
+
+msgid "BlogLogistics"
+msgstr "BlogLogistics"
+
+msgid "Use the submenu links to configure installed BlogLogistics plugins."
+msgstr "Utilisez les liens du sous-menu pour configurer les extensions BlogLogistics installées."
+
+msgid "This plugin controls the WordPress Heartbeat API in three common areas: the Dashboard, the post editor, and the frontend."
+msgstr "Cette extension contrôle l’API WordPress Heartbeat dans trois zones courantes : le tableau de bord, l’éditeur d’articles et l’interface publique."
+
+msgid "Disabling Heartbeat can reduce background admin-ajax.php requests, but it can also affect autosave, post locking, editor presence, and collaboration features. Keep the post editor enabled unless you have a clear reason to disable it."
+msgstr "Désactiver Heartbeat peut réduire les requêtes admin-ajax.php en arrière-plan, mais cela peut aussi affecter l’enregistrement automatique, le verrouillage des articles, la présence dans l’éditeur et les fonctions de collaboration. Gardez Heartbeat activé dans l’éditeur sauf si vous avez une raison claire de le désactiver."
+
+msgid "Heartbeat controls"
+msgstr "Contrôles Heartbeat"
+
+msgid "Set an interval in seconds, or set the value to 0 to disable Heartbeat for that area. WordPress ignores very low Heartbeat values, so enabled intervals are enforced at a minimum of 15 seconds."
+msgstr "Définissez un intervalle en secondes, ou indiquez 0 pour désactiver Heartbeat dans cette zone. WordPress ignore les valeurs très faibles, les intervalles activés sont donc limités à un minimum de 15 secondes."
+
+msgid "Disable"
+msgstr "Désactiver"
+
+msgid "Recommended default:"
+msgstr "Réglage recommandé :"
+
+msgid "Dashboard: Disabled. Post editor: 60 seconds. Frontend: Disabled."
+msgstr "Tableau de bord : désactivé. Éditeur d’articles : 60 secondes. Interface publique : désactivé."
+
+msgid "Save Heartbeat Settings"
+msgstr "Enregistrer les réglages Heartbeat"
+
+msgid "No changes to save."
+msgstr "Aucune modification à enregistrer."
+
+msgid "Restore recommended defaults"
+msgstr "Restaurer les réglages recommandés"
+
+msgid "This disables Heartbeat on the Dashboard and frontend, and keeps the post editor Heartbeat at 60 seconds."
+msgstr "Cela désactive Heartbeat sur le tableau de bord et l’interface publique, et conserve Heartbeat dans l’éditeur d’articles à 60 secondes."
+
+msgid "Unsaved changes."
+msgstr "Modifications non enregistrées."
+
+msgid "You do not have permission to manage these settings."
+msgstr "Vous n’avez pas l’autorisation de gérer ces réglages."
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "Dashboard Heartbeat"
+msgstr "Heartbeat du tableau de bord"
+
+msgid "Post Editor Heartbeat"
+msgstr "Heartbeat de l’éditeur d’articles"
+
+msgid "Frontend Heartbeat"
+msgstr "Heartbeat de l’interface publique"
+
+msgid "Controls Heartbeat on the main WordPress Dashboard screen."
+msgstr "Contrôle Heartbeat sur l’écran principal du tableau de bord WordPress."
+
+msgid "Controls Heartbeat in the post editor. Autosave and post locking rely on this, so 60 seconds is the recommended setting."
+msgstr "Contrôle Heartbeat dans l’éditeur d’articles. L’enregistrement automatique et le verrouillage des articles en dépendent, le réglage recommandé est donc 60 secondes."
+
+msgid "Controls Heartbeat on public-facing pages when a theme or plugin enqueues it."
+msgstr "Contrôle Heartbeat sur les pages publiques lorsqu’un thème ou une extension le charge."
+
+msgid "Heartbeat settings saved."
+msgstr "Réglages Heartbeat enregistrés."
+
+msgid "Recommended defaults restored."
+msgstr "Réglages recommandés restaurés."
+
+msgid "No changes were made."
+msgstr "Aucune modification n’a été effectuée."
