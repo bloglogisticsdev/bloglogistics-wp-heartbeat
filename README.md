@@ -36,6 +36,14 @@ Disabling Heartbeat can reduce background admin-ajax.php requests, but it can al
 * Removes plugin settings when the plugin is deleted.
 * Uses BlogLogistics manifest-based updates.
 
+== BlogLogistics Service Usage Notice ==
+
+This plugin is licensed under GPL-3.0-or-later.
+
+This plugin is provided by BlogLogistics as part of an active hosting, maintenance, or site-management service, unless a separate service arrangement has been granted. If the website is moved to another provider, continued BlogLogistics service use, support, updates, configuration assistance, or replacement work may require a separate agreement.
+
+This notice does not restrict any rights granted under the GPL-3.0-or-later licence.
+
 == Installation ==
 
 1. Upload the plugin folder to /wp-content/plugins/.
@@ -69,6 +77,10 @@ Enabled intervals are enforced at a minimum of 15 seconds because WordPress igno
 = What happens if I delete the plugin? =
 
 The plugin removes its saved settings during uninstall.
+
+= Does this plugin continue to be covered by BlogLogistics service terms if the website moves to another provider? =
+
+This plugin is licensed under GPL-3.0-or-later. BlogLogistics service use, support, updates, configuration assistance, or replacement work may require an active BlogLogistics hosting, maintenance, or site-management service, or a separate agreement. This notice does not restrict any rights granted under the GPL-3.0-or-later licence.
 
 == Changelog ==
 
