@@ -4,7 +4,7 @@ Tags: heartbeat, performance, admin-ajax, autosave, editor
 Requires at least: 7.0
 Tested up to: 7.0
 Requires PHP: 8.3
-Stable tag: 2.1.2
+Stable tag: 2.1.3
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -83,6 +83,10 @@ The plugin removes its saved settings during uninstall.
 This plugin is licensed under GPL-3.0-or-later. BlogLogistics service use, support, updates, configuration assistance, or replacement work may require an active BlogLogistics hosting, maintenance, or site-management service, or a separate agreement. This notice does not restrict any rights granted under the GPL-3.0-or-later licence.
 
 == Changelog ==
+
+= 2.1.3 =
+* Generate update manifest Installation and FAQ sections from readme.txt.
+* Remove stale hard-coded Installation and FAQ manifest content.
 
 = 2.1.1 =
 * Fix settings page fatal error caused by an invalid readonly helper call after the bootstrap refactor.
