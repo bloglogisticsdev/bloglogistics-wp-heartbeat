@@ -4,7 +4,7 @@ Tags: heartbeat, performance, admin-ajax, autosave, editor
 Requires at least: 7.0
 Tested up to: 7.0
 Requires PHP: 8.3
-Stable tag: 2.1.1
+Stable tag: 2.1.2
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
